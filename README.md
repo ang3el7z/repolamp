@@ -2,6 +2,6 @@
 
 Адаптивный масштаб интерфейса для Lampa.  
 Авто-подбор по ширине экрана или ручная настройка.
-
-Установка:
-`https://ang3el7z.github.io/repolamp/element_scale.js`
+```
+https://ang3el7z.github.io/repolamp/element_scale.js
+```
